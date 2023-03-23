@@ -25,7 +25,7 @@
             "inlineStyleLanguage": "sass",
             "assets": ["src/favicon.ico", "src/assets"],
             "styles": [
-              "src/styles.sass",
+              "src/styles.css",
               "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": []
@@ -82,7 +82,7 @@
             "tsConfig": "tsconfig.spec.json",
             "inlineStyleLanguage": "sass",
             "assets": ["src/favicon.ico", "src/assets"],
-            "styles": ["src/styles.sass"],
+            "styles": ["src/styles.css"],
             "scripts": []
           }
         }
